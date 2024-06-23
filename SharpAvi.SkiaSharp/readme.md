@@ -1,0 +1,2 @@
+﻿**SharpAvi.SkiaSharp** contains a cross-platform Motion JPEG encoder for [SharpAvi](https://www.nuget.org/packages/SharpAvi/).
+It is based on the [SkiaSharp](https://github.com/mono/SkiaSharp) library.
